@@ -19,7 +19,7 @@ resources:
         commit: false
         pullRequestCreate: true
       branches:
-        include: master
+        include: dev
       files:
         include: ^plugins\/.+
 
