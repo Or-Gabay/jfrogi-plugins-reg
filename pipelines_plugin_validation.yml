@@ -13,8 +13,8 @@ resources:
   - name: jfrog_cli_plugins_reg_git
     type: GitRepo
     configuration:
-      path: jfrog/jfrog-cli-plugins-reg
-      gitProvider: github
+      path: Or-Gabay/jfrog-cli-plugins-reg
+      gitProvider: or_cli_github
       buildOn:
         commit: false
         pullRequestCreate: true
