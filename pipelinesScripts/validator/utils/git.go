@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	jfrogCliPluginRegUrl    = "https://github.com/jfrog/jfrog-cli-plugins-reg.git"
+	jfrogCliPluginRegUrl    = "https://github.com/Or-Gabay/jfrogi-plugins-reg.git"
 	jfrogCliPluginRegBranch = "master"
 )
 
